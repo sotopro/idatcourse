@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254192674257",
+    "project_id": "idatcourse",
+    "storage_bucket": "idatcourse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254192674257:android:2b67234cfdb37b3fe56cf0",
+        "android_client_info": {
+          "package_name": "com.danielsoto.idatcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254192674257-8stf6r6s62cefmp5li3ekuapalasdhdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7cgdJWtBuIaSgeeP2KIj9M77RYvugXgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254192674257-8stf6r6s62cefmp5li3ekuapalasdhdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

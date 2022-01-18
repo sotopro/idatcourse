@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">idatcourse</string>
+    <string name="register_username_hint">Enter username</string>
+    <string name="register_password_hint">Enter password</string>
+    <string name="register_confirm_password_hint">Confirm password</string>
+    <string name="register_button_text">Register</string>
+    <string name="link_login_text">Already a user? Login here</string>
+</resources>
