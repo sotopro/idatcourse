@@ -7,5 +7,5 @@
     <string name="login_button_text">Login</string>
     <string name="link_login_text">Already a user? Login here</string>
     <string name="link_register_text">new user? Register here</string>
-
+    <string name="logout_button">Log out</string>
 </resources>
